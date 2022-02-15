@@ -5144,3 +5144,12 @@ _:-ms-fullscreen,
 .colors_coated_grey .options-panel .close-button:hover {
   color: silver !important;
 }
+
+
+.experience-custom-class {}
+
+@media (min-width:1025px) { 
+  .experience-custom-class {
+    width: 55vw;
+  }
+}
